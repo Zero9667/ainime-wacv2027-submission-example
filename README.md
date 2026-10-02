@@ -42,6 +42,11 @@ The enhanced example clip appears in `val_output/`.
 `requirements.txt` was tested on 2 x Quadro P5000 (Pascal, 16 GB each). Pascal GPUs need the
 CUDA 12.6 build of PyTorch, already selected in the file. For other GPUs, install the matching build from pytorch.org.
 
+## Register and submit
+
+- Register your team: https://docs.google.com/forms/d/e/1FAIpQLSfnYjhFO2Me3EcyD2xPB0Y_fDNgX97gcSpjFrPR17UTIuKwjw/viewform
+- Submit your code (zip with `inference.py`, model code, checkpoints and `requirements.txt`): https://docs.google.com/forms/d/e/1FAIpQLSdoIT-48PqB8ONCRU6ypvAZxR6VIQ1RW3enSqbDBAlyxyPPLQ/viewform
+
 ## Credits
 
 FBCNN: Jiang et al., Towards Flexible Blind JPEG Artifacts Removal, ICCV 2021 (Apache-2.0).
