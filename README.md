@@ -1,3 +1,18 @@
+# Validation Leaderboard
+
+*Updated October 19, 2026*
+
+| Rank | Team | Score |
+| :---: | :--- | :---: |
+| **1** | **KAGE REANIM** | **1.045** |
+| **2** | **Lynx Robotics Lab** | **1.010** |
+| **3** | **Secret level** | **0.963** |
+| – | *Baseline: Real-ESRGAN (anime video)* | *1.010* |
+| – | *Input clips (returned unchanged)* | *1.000* |
+| – | *Baseline: FBCNN* | *0.970* |
+
+> **Note:** A score of 1.000 corresponds to the input clips returned unchanged; higher is better. Validation results are preliminary: the final ranking is computed on the hidden test set.
+
 # AINIME @ WACV 2027 Challenge: submission example
 
 This folder shows the structure of a submission for the Anime Video Enhancement challenge
