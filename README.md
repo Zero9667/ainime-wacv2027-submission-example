@@ -9,7 +9,7 @@
 | **3** | **Secret level** | **0.963** |
 | – | *Baseline: Real-ESRGAN (anime video)* | *1.010* |
 | – | *Input clips (returned unchanged)* | *1.000* |
-| – | *Baseline: FBCNN* | *0.970* |
+| – | *Baseline: FBCNN* | *0.980* |
 
 > **Note:** A score of 1.000 corresponds to the input clips returned unchanged; higher is better. Validation results are preliminary: the final ranking is computed on the hidden test set.
 
