@@ -1,3 +1,15 @@
+# Final Test Leaderboard
+
+*Updated October 27, 2026*
+
+| Rank | Team | Score |
+| :---: | :--- | :---: |
+| **1** | **Lynx Robotics Lab** | **1.064** |
+| **2** | **KAGE REANIM** | **1.045** |
+| **3** | **SNU-ISPL** | **1.034** |
+
+> **Note:** A score of 1.000 corresponds to the input clips returned unchanged; higher is better. Final ranking computed on the hidden test set.
+
 # Validation Leaderboard
 
 *Updated October 19, 2026*
